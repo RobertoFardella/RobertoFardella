@@ -1,4 +1,4 @@
-### Welcome to my Github profile! :fire:
+### Welcome to my Github profile! :fire: 🧠
 
 My name is Roberto, and I am currently pursuing a Master's degree in Computer Engineering at Tor Vergata University in Rome, Italy.
 
