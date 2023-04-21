@@ -2,8 +2,7 @@
 
 My name is Roberto, and I am currently pursuing a Master's degree in Computer Engineering at Tor Vergata University in Rome, Italy.
 
-As a computer engineering student, I am passionate about developing innovative solutions to complex problems using cutting-edge technologies. My areas of interest include software development, artificial intelligence, machine learning, and data analysis.
-
+As a computer engineering student, I am passionate about developing innovative solutions to complex problems using cutting-edge technologies. 
 On this profile, you will find a variety of projects that demonstrate my skills and interests. I am always eager to collaborate on new projects and contribute to open-source software development.
 
 Feel free to explore my repositories and connect with me on LinkedIn. Let's work together to build something amazing!
