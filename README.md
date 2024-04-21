@@ -1,5 +1,5 @@
 ### Welcome to my Github profile! :fire: 🧠
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Zudel&label=Profile%20views&color=0e75b6&style=flat" alt="Zudel" /> </p>
 My name is Roberto, and I am currently pursuing a Master's degree in Computer Engineering at Tor Vergata University in Rome, Italy.
 
 As a computer engineering student, I am passionate about developing innovative solutions to complex problems using cutting-edge technologies. 
