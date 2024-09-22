@@ -9,9 +9,9 @@ Feel free to explore my repositories and connect with me on LinkedIn. Let's work
 
 Here there are my stats:
 
-[![My GitHub Language Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zudel&theme=tokyonight&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Language Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RobertoFardella&theme=tokyonight&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Roberto's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Zudel&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Roberto's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=RobertoFardella&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 Here there are the languages and tools I am learning to use:
 
